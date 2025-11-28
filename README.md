@@ -3,6 +3,8 @@ Improve your typing skills with this Free Typing Speed Test! In this video, you 
 Improve your typing skills with this Typing Speed Test project — a fast, accurate, and interactive tool to measure your WPM (Words Per Minute) and typing accuracy.
 Whether you're a student, programmer, content creator, or someone who wants to boost productivity, this Typing Test Online tool gives you real-time results and helps you practice effectively.
 
+[https://www.youtube.com/watch?v=3zcYw0vJHI4](https://www.youtube.com/watch?v=3zcYw0vJHI4)
+
 ## 🔥 Features
 
 ⚡ Typing Speed Test with real-time WPM calculation
